@@ -19,7 +19,7 @@
 ### Tools:
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudio" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudio" width="50" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="apple_xcode" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
@@ -29,14 +29,14 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="cordova" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="jquery" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescriptlang" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="22" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="50" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="jquery" width="50" height="22"/>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="22" height="22"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbs-raviashara&layout=compact&hide=html" alt="ravi-ashara" /></p>
